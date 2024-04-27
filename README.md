@@ -44,8 +44,8 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
     ?>
     <h2>Menggunakan variable</h2>
     <?php
-    $nim = "312210575";
-    $nama = 'ZULAEHA';
+    $nim = "312210581";
+    $nama = 'Tyanshi Firli Maharani';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
     ?>
@@ -120,12 +120,10 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 ```
 ## Hasil Run 
 
+![Screenshot (126)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/321d2be9-f0a1-4358-aeb4-00dccc5518a6)
+![Screenshot (127)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/c4bd82df-a974-4f14-ba96-57263756a5a3)
+![Screenshot (128)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/fe160155-cba0-46af-a2fc-e69e2798b464)
 
-![Screenshot (147)](https://github.com/zulaeha168/ModulPraktikumWeb2/assets/130324650/91aeef0d-0636-4a59-9ffe-e89ef9b4af92)
-
-![Screenshot (149)](https://github.com/zulaeha168/ModulPraktikumWeb2/assets/130324650/9e16157e-f422-4422-99b1-069070f06e7f)
-
-![Screenshot (150)](https://github.com/zulaeha168/ModulPraktikumWeb2/assets/130324650/0e33f3e6-69f1-4a51-96c4-4faf690e8495)
 
 ## TUGAS FORM INPUT
 
