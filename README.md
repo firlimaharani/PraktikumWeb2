@@ -188,7 +188,7 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 
 ## Hasil Run
 
-![Screenshot (153)]
+![Screenshot (129)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/9667f024-f06c-44e2-8d4d-c8c896bc7b12)
 
 ## Lab3 PHP DATABASE
 
