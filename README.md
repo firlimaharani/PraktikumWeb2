@@ -1,5 +1,5 @@
 # TUGAS PEMOGRAMAN WEB 2
-NAMA           : Tyanshi Firli Maharani
+NAMA           : Tyanshi Firli Maharani 
 
 NIM            : 312210581
 
@@ -216,7 +216,7 @@ die();
 
 ## Hasil Run
 
-![Screenshot (158)]
+![Screenshot (123)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/587bad37-5d95-4c1c-8b6f-b7dae47ce2a0)
 
 > `Index`
 ```
@@ -277,7 +277,7 @@ $result = mysqli_query($conn, $sql);
 
 ## Hasil Run
 
-![Screenshot (159)]
+![Screenshot (124)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/31f779a7-1815-4234-8fe1-af7160b821d6)
 
 
 > `Tambah`
