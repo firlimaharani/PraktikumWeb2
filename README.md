@@ -192,6 +192,9 @@ MATA KULIAH    : PEMOGRAMAN WEB 2
 
 ## Lab3 PHP DATABASE
 
+![Screenshot (121)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/ebe7345e-49b0-4182-a2e5-f9f69e129bc0)
+![Screenshot (122)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/2c165f0c-4484-43c9-a70b-b0f0fd1b174c)
+
 > `Koneksi`
 ```
 <?php
