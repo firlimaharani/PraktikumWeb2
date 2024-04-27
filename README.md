@@ -558,6 +558,9 @@ switch  ($mod) {
 ```
 ## Hasil Run
 
+https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/9525ca62-e5e2-4c61-accb-1e089450393c
+
+
 
 ## Lab5 PHP_OOP
 
