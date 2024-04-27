@@ -365,7 +365,7 @@ data">
 ```
 ## Hasil Run
 
-![Screenshot (160)]
+![Screenshot (125)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/93ffd940-6c20-4a98-80eb-95cd8e225123)
 
 
 > `Ubah`
@@ -474,9 +474,7 @@ data">
 
 ## Hasil Run 
 
-![Screenshot (163)]
-
-![Screenshot (164)]
+![Screenshot (126)](https://github.com/firlimaharani/PraktikumWeb2/assets/130529482/5e1fffc5-a78e-41c8-b0fd-dc7d7e553338)
 
 ## Lab4 PHP MODULAR
 
